@@ -1,0 +1,120 @@
+[
+    { 
+        "name": "Banff",
+        "province": "Alberta",
+        "winter_pic": { "path": "romfs:/images/banff-winter.jpg", "license": "CC0", "credit": "pixabay.com" },
+        "summer_pic": { "path": "romfs:/images/banff-summer.jpg", "license": "CC0", "credit": "pixabay.com" }
+        
+    },
+    { 
+        "name": "Terra Nova National Park",
+        "province": "Newfoundland and Labrador",
+        "winter_pic": {
+            "license":"CC BY 2.0",
+            "path": "romfs:/images/terra-nova-winter.jpg",
+            "credit": "David Ooms"
+        },
+        "summer_pic": {
+            "path": "romfs:/images/terra-nova-summer.jpg",
+            "license": "CC BY 2.0",
+            "credit": "Tango7174"
+        }
+    },
+    { 
+        "name": "Wood Buffalo National Park",
+        "province": "Northwest Territories",
+        "winter_pic": {
+            "path": "romfs:/images/wood-buffalo-winter.jpg",
+            "credit": "Ansgar Walk",
+            "license": "CC BY-SA 2.5"
+        },
+        "summer_pic": {
+           "path": "romfs:/images/wood-buffalo-summer.jpg",
+           "credit": "Melinaguene",
+           "license": "CC BY-SA 4.0"
+        }
+    },
+    { 
+        "name": "Gwaii Haanas",
+        "province": "British Columbia",
+        "winter_pic": null,
+        "summer_pic": { 
+            "path": "romfs:/images/gwaii-hannas-summer.jpg",
+            "credit": "Brett Hodnett",
+            "license": "CC BY-SA 2.0"
+        }
+    },
+    { 
+        "name": "Georgian Bay Islands National Park",
+        "province": "Ontario",
+        "winter_pic": { "path": "romfs:/images/georgian-bay-winter.jpg", "credit": "Google Image", "license": "???" },
+        "summer_pic": { "path": "romfs:/images/georgian-bay-summer.jpg",  "credit": "Muhammad Ghouri", "license":"CC BY 2.0" }
+    },
+    { 
+        "name": "Jasper",
+        "province": "Alberta",
+        "winter_pic": { "path": "romfs:/images/jasper-winter.jpg", "credit": "Mack Male", 
+                        "license": "CC BY-SA 2.0" },
+        "summer_pic":{
+            "path": "romfs:/images/jasper-summer.jpg",
+            "credit": "G. Lamar",
+            "license": "CC BY 2.0"
+        }
+    },
+    { 
+        "name": "Prince Edward Island National Park",
+        "province": "Prince Edward",
+        "winter_pic": { 
+            "path": "romfs:/images/prince-edward-winter.jpg",
+            "credit": "Raj Dahal",
+            "license": "CC BY-SA 4.0"
+        },
+        "summer_pic": { 
+            "path": "romfs:/images/prince-edward-summer.jpg",
+            "credit": "Diana Robinson",
+            "license": "CC BY-NC-ND 2.0"
+        }
+    },
+    { 
+        "name": "Mauricie Park",
+        "province": "Quebec",
+        "winter_pic": {
+            "credit": "hellolaroux.com",
+            "path": "romfs:/images/mauricie-winter.jpg",
+            "license": "???"
+        },
+        "summer_pic": {
+            "path": "romfs:/images/mauricie-summer.jpg",
+            "license":"CC BY-SA 4.0",
+            "credit": "Marc-Lautenbacher"
+        }
+    },
+    { 
+        "name": "Kluane Park",
+        "province": "Yukon",
+        "winter_pic": { 
+            "path": "romfs:/images/kluane-winter.jpg",
+            "license": "CC BY-SA 2.0",
+            "credit": "Lee O'Mara"
+        },
+        "summer_pic": { 
+            "path": "romfs:/images/kluane-summer.jpg",
+            "license": "CC BY-NC-ND 2.0",
+            "credit": "Richard Droker"
+        }
+    },
+    { 
+        "name": "Cape Breton Highlands Park",
+        "province": "Nova Scotia",
+        "winter_pic": {
+            "path": "romfs:/images/cape-breton-winter.jpg",
+            "credit": "Rob Romard",
+            "license": "CC BY-NC-ND 2.0"
+        },
+        "summer_pic": { 
+           "path": "romfs:/images/cape-breton-summer.jpg",
+           "credit": "Diana Robinson",
+           "license": "CC BY-NC-ND 2.0"
+        }
+    }
+]
