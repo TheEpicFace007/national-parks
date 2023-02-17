@@ -1,4 +1,5 @@
 build/
-.3dsx
-.elf
-.smdh
+*.3dsx
+*.elf
+*.smdh
+.vscode
